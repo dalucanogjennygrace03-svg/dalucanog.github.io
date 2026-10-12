@@ -1,10 +1,10 @@
 :root {
---navy: #5d174e;
---blue: #78123b;
---ink: #ab293b;
---muted: #c30eae;
---surface: #f4f7fb;
---white: #ffffff;
+--navy: #0a0809;
+--blue: #6f1619;
+--ink: #090707;
+--muted: #dd8888;
+--surface: #5a0a0a;
+--white: #fdf6f6;s
 --section-space: 72px;
 }
 * { box-sizing: border-box; }
